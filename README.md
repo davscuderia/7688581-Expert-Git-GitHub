@@ -1,5 +1,5 @@
 # Open Transport
-test
+
 Application web pour covoiturage. 
 
 ## Getting Started
@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deploiement modif1
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
